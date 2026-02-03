@@ -22,6 +22,6 @@ export default function landingPage () {
     <img src={pipe} className="absolute bottom-39 right-40" />
     <img src={invertedPipe} className="absolute top-0 left-40"/>
     <img src={bird} className="absolute top-60 right-170"/>
-    <button className="absolute top-90 right-140 text-6xl text-[#2F3B16] bg-[#9EEB59] outline-solid outline-black outline-4 rounded-sm font-extrabold cursor-pointer px-3 py-4 hover:bg-red-400 shadow-lg ">START GAME</button>
+    <button className="absolute top-90 right-150 text-6xl text-[#2F3B16] bg-[#B2F07A] outline-solid outline-black outline-4 font-extrabold cursor-pointer px-3 py-4 hover:bg-[#9EEB59] active:bg-[#B2F07A] pt-2 pb-2">START GAME</button>
   </div>
 }
