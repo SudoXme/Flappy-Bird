@@ -1,1 +1,14 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: "Jersey";
+  font-weight: "normal";
+  font-style: "normal";
+  src: url('./assets/fonts/Jersey_10/Jersey10-Regular.ttf') format('truetype');
+}
+
+.font-jersey{
+  font-family: 'Jersey', sans-serif;
+}
+
+
